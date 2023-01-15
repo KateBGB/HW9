@@ -1,0 +1,5 @@
+C:\Users\biyus\OneDrive\Рабочий стол\c projects\my test projects\HW9\Task68\obj\Debug\net6.0\Task68.csproj.AssemblyReference.cache
+C:\Users\biyus\OneDrive\Рабочий стол\c projects\my test projects\HW9\Task68\obj\Debug\net6.0\Task68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biyus\OneDrive\Рабочий стол\c projects\my test projects\HW9\Task68\obj\Debug\net6.0\Task68.AssemblyInfoInputs.cache
+C:\Users\biyus\OneDrive\Рабочий стол\c projects\my test projects\HW9\Task68\obj\Debug\net6.0\Task68.AssemblyInfo.cs
+C:\Users\biyus\OneDrive\Рабочий стол\c projects\my test projects\HW9\Task68\obj\Debug\net6.0\Task68.csproj.CoreCompileInputs.cache
